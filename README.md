@@ -1,0 +1,2 @@
+first extract the given zip file then run it by using vs code by right clicking on it then open terminal run this instruction first npm run dev then add another tab or terminal and write node server.js then add another tab for backend mongodb write mongod in this tab and lastly open another tab of terminal and write mongosh here 
+in mongosh tab, for database you can click use task then show collections for login user schema and admin listings schema and to see the details of any schema write db.users.find().pretty()
